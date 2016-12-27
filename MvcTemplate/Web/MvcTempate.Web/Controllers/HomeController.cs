@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using MvcTempate.Web.Models;
 
 namespace MvcTempate.Web.Controllers
 {
